@@ -1,5 +1,6 @@
-Structured Polynomial-Time Subset Sum
 
+Structured Polynomial-Time Subset Sum
+This repository presents a self verified and rigrously developed attempt at a polynomial-time solution to the NP-complete Subset Sum problem. However, the work is currently ** under formal review at the Zenodo platform**. While it has not yet undergone external peer review or endorsement, it is shared here transparently for open scientific dialogue and constructive discussion.
 This repository contains the research, code, and documentation for a proposed polynomial-time solution to the Subset Sum problem — a cornerstone in P vs NP theory.
 
 
