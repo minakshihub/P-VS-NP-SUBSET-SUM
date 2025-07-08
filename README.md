@@ -18,6 +18,14 @@ Independent Researcher
 - graph.jpg – visual summary or explanatory illustration
 - README.md – this file
 - metadata.txt, license.txt, zenodo.txt – auxiliary files for archiving
+## 📌 Published Version
+
+This research has been officially archived and assigned a DOI by Figshare.
+
+🔗 [View on Figshare](https://doi.org/10.6084/m9.figshare.29506181)
+
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.29506181-blue)](https://doi.org/10.6084/m9.figshare.29506181)
+- 
 
 ## License
 Released under CC BY 4.0 – use with attribution.
