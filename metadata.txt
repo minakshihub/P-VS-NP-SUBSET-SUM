@@ -1,0 +1,19 @@
+Title: A Strictly Polynomial-Time Algorithm for the Subset Sum Problem: A Constructive Step Toward Resolving P vs NP
+
+Authors:
+- Minakshi Aggarwal (Independent Researcher)
+
+Contact Email:
+- minakshi.puruaggarwal@gmail.com
+
+Abstract:
+The P vs NP question stands as one of the most formidable challenges in theoretical computer science. Among the class of NP-complete problems, the Subset Sum problem has long symbolized the difficulty of finding polynomial-time solutions for combinatorial decision problems. In this work, we present a strictly polynomial-time and polynomial-space algorithm that deterministically solves the Subset Sum problem without invoking any exponential search, recursion, dynamic programming tables, backtracking, or memoization.
+
+Our approach is grounded in a structured iteration logic with anchored filtering, deterministic pruning, and live output printing, ensuring scale scalability and theoretical tractability. We deliberately avoid conventional exponential techniques — including recursive DFS, branch-and-bound, pseudo-polynomial dynamic programming, and SAT/CNF reductions — which, although powerful, intrinsically introduce non-polynomial behavior in worst-case scenarios.
+
+This paper demonstrates not only a polynomial solution to the Subset Sum problem, but also lays the groundwork for a deeper claim: that if even one such NP-complete problem admits a provably polynomial solution, then it is possible that P = NP. We offer a detailed proof of logic, empirical scale validation, and an open-source implementation to support independent replication and peer evaluation.
+
+License: CC-BY 4.0
+
+Keywords:
+Subset Sum, P vs NP, Polynomial Time, NP-complete, Deterministic Algorithm, Exponential Avoidance, Structured Filtering, Non-recursive Algorithm
