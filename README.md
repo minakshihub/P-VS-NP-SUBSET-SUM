@@ -24,6 +24,7 @@ Independent Researcher
 [ORCID](https://orcid.org) | [Zenodo Submission](https://zenodo.org)
 
 ## Repository Contents
+-Declaration.pdf -Subset Sum, P vs NP, Polynomial Time, NP-Complete, Ownership Declaration, Algorithmic Research
 - P VS NP(SUBSET_SUM).py – core solver with polynomial guarantee
 -  P vs NP210725.tex - Revised version of LaTeX file for the academic write-up
 - P VS NP (SUBSET_SUM).tex – Old version of LaTeX file for the academic write-up
