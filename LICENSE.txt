@@ -1,0 +1,32 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+You are free to:
+* Share — copy and redistribute the material in any medium or format
+
+Under the following terms:
+* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+* NonCommercial — You may not use the material for commercial purposes.
+* NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+© Minakshi Aggarwal, 2025
+
+
+This software and its associated materials are proprietary and confidential.
+Unauthorized copying, redistribution, or use of this code, in whole or in part,
+is strictly prohibited without prior written consent from the author.
+
+This code is a research artifact associated with the paper:
+“Structured Polynomial-Time Solution to Subset Sum Problem”
+DOI: 10.5281/zenodo.16282799 & 10.5281/Zenodo.15792750
+
+Archived on: Zenodo, OSF, Figshare, ORCID, GitHub
+
+This repository is made available only for academic transparency and record-keeping.
+It is not open source.
+
+Contact: minakshi.puruaggarwal@gmail.com
