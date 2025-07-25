@@ -1,3 +1,14 @@
+# Copyright © 2025 Minakshi Aggarwal
+# Title: Structured Polynomial-Time Solution to Subset Sum Problem
+# DOI: 10.5281/zenodo.8123456 | Also archived at OSF, Figshare, ORCID, GitHub
+#
+# This file is part of a protected research prototype. Redistribution, reuse,
+# or derivative work of any part of this code is strictly prohibited without
+# explicit written permission from the author.
+#
+# For academic inquiries, contact: minakshi.puruaggarwal@gmail.com
+#
+# Any unauthorized use will be considered a breach of intellectual property.
 from typing import List, Union, Tuple
 import math
 
